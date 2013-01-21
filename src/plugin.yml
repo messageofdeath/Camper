@@ -1,0 +1,7 @@
+name: Camper
+author: messageofdeath
+version: 1.0
+depend: [WorldEdit, WorldGuard]
+main: com.cheesium.Camper.Camper
+commands:
+  camper:
